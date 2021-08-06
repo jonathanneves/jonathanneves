@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h1 align="left">Hi. My name is Neves, Jonathan Neves. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="35"></h1>
-<h3 align="left"><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="25"/> Java Backend Engineer | Game Dev </h3>
+<h3 align="left"><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="25"/> Java Backend Engineer | Unity Game Dev </h3>
 <a href = "mailto:nevesjon98@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-neves-057976137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -22,13 +22,11 @@
 <h2> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"/> Git Stats </h2>
 <div style="display: inline_block" align="center">       
   <a href="https://github.com/jonathanneves">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanneves&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jonathanneves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanneves&layout=compact&langs_count=7&theme=synthwave&border_color=e75480"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jonathanneves&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_color=e75480"/>
 </div>
 
-<div> 
-  ![Snake animation](https://github.com/jonathanneves/jonathanneves/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/jonathanneves/jonathanneves/blob/output/github-contribution-grid-snake.svg)
   
-<h3 align="right">Thanks for visiting!</h3>
-<h4 align="right">See you space Cowboy...</h4> 
+<h3 align="right">Thanks for visiting! <img src="https://emoji.gg/assets/emoji/1176-dark-moonspace.png" width="30"/></h3>
+<h4 align="right">See You Space Cowboy... </h4> 
