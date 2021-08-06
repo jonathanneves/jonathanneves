@@ -22,8 +22,8 @@
 <h2> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"/> Git Stats </h2>
 <div style="display: inline_block" align="center">       
   <a href="https://github.com/jonathanneves">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanneves&layout=compact&langs_count=7&theme=synthwave&border_color=e75480"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jonathanneves&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_color=e75480"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanneves&layout=compact&langs_count=7&theme=synthwave&border_color=e75480"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanneves&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_color=e75480"/>
 </div>
 
 ![Snake animation](https://github.com/jonathanneves/jonathanneves/blob/output/github-contribution-grid-snake.svg)
